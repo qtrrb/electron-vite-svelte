@@ -13,7 +13,7 @@
     "make": "vite build && electron-forge make"
   },
   "devDependencies": {
-    "@electron-forge/cli": "^6.0.4",
+    "@electron-forge/cli": "^6.0.5",
     "@electron-forge/maker-zip": "^6.0.4",
     "@sveltejs/vite-plugin-svelte": "^2.0.3",
     "concurrently": "^7.6.0",
