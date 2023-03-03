@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@electron-forge/cli": "^6.0.5",
-    "@electron-forge/maker-zip": "^6.0.4",
+    "@electron-forge/maker-zip": "^6.0.5",
     "@sveltejs/vite-plugin-svelte": "^2.0.3",
     "concurrently": "^7.6.0",
     "electron": "^23.1.1",
